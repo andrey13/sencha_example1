@@ -1,6 +1,8 @@
 {
     "users": [
         { "id": 1, "login": "user1", "id_status": 1 },
-        { "id": 2, "login": "user2", "id_status": 2 }
+        { "id": 2, "login": "user2", "id_status": 2 },
+        { "id": 3, "login": "user3", "id_status": 3 },
+        { "id": 4, "login": "user4", "id_status": 4 }
     ]
 }
